@@ -1,4 +1,9 @@
 <h1 align="center">Gojo-Bots</h1>
+<h1 align="center">
+<a href="https://github.com/Gojo-Bots">
+<img src="https://raw.githubusercontent.com/Gojo-Bots/.github/main/Untitled(1).webp" alt="LOGO">
+</a>
+</h1>
 
 ----
 
