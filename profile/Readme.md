@@ -23,4 +23,11 @@
 </br>
 <br>
 </br>
+
+-------
+
+<h2>On Telegram:<h3><a href="https://telegram.dog/gojo_bots_network">ɢօʝօ ɮօƭֆ ռɛƭաօʀᏦ</a></h3></h2>
+
+-------
+
 <h2>Regards: <a href="https://github.com/iamgojoof6eyes">Captain Ezio</a></h2>
