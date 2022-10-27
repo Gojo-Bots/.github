@@ -4,6 +4,7 @@
 <img src="https://raw.githubusercontent.com/Gojo-Bots/.github/main/Untitled(1).webp" alt="LOGO">
 </a>
 </h1>
+<br>
 
 ----
 
@@ -11,6 +12,7 @@
 <p>
 <b><a href="https://github.com/Gojo-Bots">Gojo-Bots</a></b> is an organization consisting open source projects mainly telegram bot based on python and <a href="https://github.com/pyrogram/pyrogram">pyrogram</a> bot library. We are trying our best to deliver the best bot performance.
 </p>
+<br>
 
 ------
 
@@ -20,13 +22,11 @@
 <li>If you want to become a member of this organization just apply for it, we will see your profile and then decide weather to accept it or decline it.</li>
 </p>
 <br>
-</br>
-<br>
-</br>
 
 -------
 
 <h2>On Telegram:<h3><a href="https://telegram.dog/gojo_bots_network">ɢօʝօ ɮօƭֆ ռɛƭաօʀᏦ</a></h3></h2>
+<br>
 
 -------
 
