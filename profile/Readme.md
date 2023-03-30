@@ -14,6 +14,8 @@
 </p>
 <br>
 
+<a href="https://dev.to/gojo-bots"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to"></a>
+
 ------
 
 <h2>Contribution</h2>
