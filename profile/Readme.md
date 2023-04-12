@@ -1,7 +1,7 @@
 <h1 align="center">Gojo-Bots</h1>
 <h1 align="center">
 <a href="https://github.com/Gojo-Bots">
-<img src="https://avatarfiles.alphacoders.com/339/339922.jpg" alt="LOGO">
+<img src="https://artfiles.alphacoders.com/160/160160.jpeg" alt="LOGO">
 </a>
 </h1>
 <br>
