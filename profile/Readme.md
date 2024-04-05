@@ -32,4 +32,4 @@
 
 -------
 
-<h2>Regards: <a href="https://github.com/iamgojoof6eyes">Captain Ezio</a></h2>
+<h2>Regards: <a href="https://github.com/iamgojoof6eyes">Captain D. Ezio</a></h2>
